@@ -1016,6 +1016,7 @@
 <h1>W3</h1>
 <p>負責影片:</p>
 <p>15.<a href="https://www.youtube.com/watch?v=sPhkCyiM4aQ&amp;list=PLzEsJue49U_EMMv0eBo8MNJjJOq_WHCrl&amp;index=15">TECH 4472 HW09 NX Assemblies (Bottom-UP)</a></p>
+<p>使用影片說明附上的零件進行組裝</p>
 <p>youtube</p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/3DnTssWNrdQ" title="YouTube video player" width="560"></iframe></p>
 <p>wink</p>
@@ -1042,6 +1043,7 @@ var winkVideoData = {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <p>16.<a href="https://www.youtube.com/watch?v=ZMBafEB0XEg&amp;list=PLzEsJue49U_EMMv0eBo8MNJjJOq_WHCrl&amp;index=16">4472 NX Subassemblies</a></p>
+<p><span>使用影片說明附上的零件進行組裝</span></p>
 <p>youtube</p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PFAbmeJ0xfE" title="YouTube video player" width="560"></iframe></p>
 <p>wink</p>
@@ -1118,7 +1120,8 @@ var winkVideoData = {
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
-</div><h1>每週進度</h1>
+</div>
+<h1>每週進度</h1>
 <h2>W1 0224</h2>
 <p><span>IPv</span>6設定(手動):</p>
 <p>設定-&gt;網路和網際網路-&gt;Proxy-&gt;</p>
@@ -1159,7 +1162,35 @@ var winkVideoData = {
 <p><span>5.再將excel內容依組別整理後複製貼上網頁</span></p>
 <h2>W3 0310</h2>
 <h4>利用NX1980繪製38個比較接近NX1980版本功能的教學影片(<a href="https://www.youtube.com/watch?v=GUaa97tALxE&amp;list=PLzEsJue49U_EMMv0eBo8MNJjJOq_WHCrl">連結</a>)，每一學員分配5個影片，並在w3標題頁面中， 根據影片中的教學內容，以Wink影片互相對照的方式採NX1980執行操作進行整理，完成後將所負責的Wink教學影片嵌入個人與大分組的w3標題頁面中</h4>
-<h2>W4 0317</h2>
+<p></p>
+<h3>wink</h3>
+<p>wink加入網頁步驟:</p>
+<p>先到<a href="https://mde.tw/cad2021/content/Wink.html">老師的網站</a>複製原始碼</p>
+<p><img alt="" height="963" src="https://40923207.github.io/cad2021_hw/images/1.png" width="1920"/></p>
+<p><img alt="" height="967" src="https://40923207.github.io/cad2021_hw/images/2.png" width="1920"/></p>
+<p><strong>複製第143-164行</strong><img alt="" height="960" src="https://40923207.github.io/cad2021_hw/images/3.png" width="1918"/></p>
+<p><strong><span style="color: #000000;">複製到Source code並更改以下內容:</span></strong></p>
+<p>&lt;script&gt;<br/>var winkVideoData = {<br/> dataVersion: 1,<br/> frameRate: 20,<br/> buttonFrameLength: 10,<br/> buttonFrameOffset: 5,<br/> frameStops: {<br/> },<br/>};<br/>&lt;/script&gt;<br/>&lt;div class="winkVideoContainerClass"&gt;&lt;video class="winkVideoClass" data-dirname="<span style="background-color: #ffcc00;">./../cmsimde</span>/static" data-varname="winkVideoData" <span style="background-color: #99ccff;">height="712" width="1138"</span>&gt;<br/>&lt;source src="./../downloads/<span style="background-color: #ff99cc;">wink/meArm_robot_wink</span>.mp4" type="video/mp4"/&gt;&lt;/video&gt;<br/>&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;<br/>&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;<br/>&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;<br/>&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;<br/>&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;<br/>&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;<br/>&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;<br/>&lt;/div&gt;<br/>&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;<br/>&lt;/div&gt;</p>
+<p>1.刪除「<span style="background-color: #ffcc00;">./../cmsimde</span>」</p>
+<p>  ex:<span>dirname="</span><span>/static"</span></p>
+<p>2.改成自己wink影片的尺寸「<span style="background-color: #99ccff;">height="712" width="1138"</span>」<span style="background-color: #ffcc00;"><br/></span></p>
+<p>  ex:<span style="background-color: #99ccff;">height="800" width="1200"</span></p>
+<p>3.改成自己影片的路徑及名稱「<span style="background-color: #ff99cc;">wink/meArm_robot_wink</span>」</p>
+<p>  ex:<span>&lt;source src="./../downloads/</span><span style="background-color: #ff99cc;">test</span><span>.mp4"<span> </span></span></p>
+<p><span><span></span></span></p>
+<p><strong>改好後會像圖片這樣，紅色框的內容可避免wink影片重疊，分別加在wink影片原始碼前後</strong></p>
+<p><img alt="" height="629" src="https://40923207.github.io/cad2021_hw/images/4.png" width="641"/></p>
+<!-- Brython 程式執行的結果, 都以 brython_div 作為切入位置 -->
+<p></p>
+<p></p>
+<p><br/><br/><br/><br/></p>
+<!-- 導入 gearUtils-0.9.js Cango 齒輪繪圖程式庫 -->
+<script src="https://mde.tw/cp2021/cmsimde/static/Cango-24v03-min.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/gearUtils-09.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/SVGpathUtils-6v03-min.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/sylvester.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/PrairieDraw.js"></script>
+<div class="winkVideoContainerClass"></div><h2>W4 0317</h2>
 <p><span></span></p>
 <h2>W5 0324</h2>
 <p><span></span></p>
