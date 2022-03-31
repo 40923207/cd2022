@@ -8,7 +8,7 @@ Title: About
 
 課程投影片: <a href="https://mdecourse.github.io/cmstemplate/reveal">https://mdecourse.github.io/cmstemplate/reveal</a>
 
-課程網誌: <a href="https://mdecourse.github.io/cmstemplate/blog">https://mdecourse.github.io/cmstemplate/blog</a>
+課程網誌: <a href="https://40923207.github.io/cd2022/blog/index.html">https://40923207.github.io/cd2022/blog/index.htmlg</a>
 
 
 
