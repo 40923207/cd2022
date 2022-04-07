@@ -7,6 +7,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="yen.20170108171605.1"><vh>@settings</vh>
+<v t="leo.20220407141541.1"><vh>@url file://..\..\w7_project\scarysim\scarysim.pro</vh></v>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -57,6 +58,7 @@
 <v t="leo.20180115115910.1"><vh>2022</vh>
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20220331.md</vh></v>
+<v t="leo.20220407153449.1"><vh>@edit 20220407.md</vh></v>
 </v>
 </v>
 </v>
@@ -89,6 +91,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20220407141541.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
