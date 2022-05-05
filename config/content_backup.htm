@@ -274,12 +274,75 @@ var winkVideoData = {
 <div class="winkVideoPlayOverlayClass"></div>
 <script>
 var winkVideoData = {
-dataVersion: 1,
-frameRate: 20,
-buttonFrameLength: 10,
-buttonFrameOffset: 5,
-frameStops: {
-},
+  dataVersion: 1,
+  frameRate: 75,
+  buttonFrameLength: 37,
+  buttonFrameOffset: 18,
+  frameStops: {
+    "18": [
+      { type: "gotoframe", rect: { x: 833, y: 229, width: 60, height: 24 }, target: 19 },
+    ],
+    "63": [
+      { type: "gotoframe", rect: { x: 540, y: 353, width: 60, height: 24 }, target: 18 },
+      { type: "gotoframe", rect: { x: 732, y: 354, width: 60, height: 24 }, target: 64 },
+    ],
+    "127": [
+      { type: "gotoframe", rect: { x: 378, y: 494, width: 60, height: 24 }, target: 63 },
+      { type: "gotoframe", rect: { x: 764, y: 498, width: 60, height: 24 }, target: 128 },
+      { type: "gotourl", rect: { x: 562, y: 495, width: 60, height: 24 }, target: "http://wcm.cycu.org:88/", window: "" },
+    ],
+    "1353": [
+      { type: "gotoframe", rect: { x: 589, y: 83, width: 60, height: 24 }, target: 127 },
+      { type: "gotoframe", rect: { x: 668, y: 82, width: 60, height: 24 }, target: 1354 },
+    ],
+    "1434": [
+      { type: "gotoframe", rect: { x: 134, y: 581, width: 60, height: 24 }, target: 1353 },
+      { type: "gotoframe", rect: { x: 393, y: 582, width: 60, height: 24 }, target: 1435 },
+    ],
+    "1737": [
+      { type: "gotoframe", rect: { x: 503, y: 356, width: 60, height: 24 }, target: 1434 },
+      { type: "gotoframe", rect: { x: 649, y: 356, width: 60, height: 24 }, target: 1738 },
+    ],
+    "1814": [
+      { type: "gotoframe", rect: { x: 384, y: 235, width: 60, height: 24 }, target: 1737 },
+      { type: "gotoframe", rect: { x: 453, y: 235, width: 60, height: 24 }, target: 1815 },
+    ],
+    "1862": [
+      { type: "gotoframe", rect: { x: 425, y: 496, width: 60, height: 24 }, target: 1814 },
+      { type: "gotoframe", rect: { x: 521, y: 496, width: 60, height: 24 }, target: 1863 },
+    ],
+    "2986": [
+      { type: "gotoframe", rect: { x: 68, y: 382, width: 60, height: 24 }, target: 1862 },
+      { type: "gotoframe", rect: { x: 194, y: 383, width: 60, height: 24 }, target: 2987 },
+    ],
+    "3209": [
+      { type: "gotoframe", rect: { x: 252, y: 264, width: 60, height: 24 }, target: 2986 },
+      { type: "gotoframe", rect: { x: 323, y: 264, width: 60, height: 24 }, target: 3210 },
+    ],
+    "3257": [
+      { type: "gotoframe", rect: { x: 262, y: 484, width: 60, height: 24 }, target: 3209 },
+      { type: "gotoframe", rect: { x: 401, y: 485, width: 60, height: 24 }, target: 3258 },
+    ],
+    "3460": [
+      { type: "gotoframe", rect: { x: 502, y: 460, width: 60, height: 24 }, target: 3257 },
+      { type: "gotoframe", rect: { x: 663, y: 460, width: 60, height: 24 }, target: 3461 },
+    ],
+    "3710": [
+      { type: "gotoframe", rect: { x: 256, y: 205, width: 60, height: 24 }, target: 3460 },
+      { type: "gotoframe", rect: { x: 542, y: 209, width: 60, height: 24 }, target: 3711 },
+    ],
+    "3770": [
+      { type: "gotoframe", rect: { x: 313, y: 89, width: 60, height: 24 }, target: 3710 },
+      { type: "gotoframe", rect: { x: 509, y: 90, width: 60, height: 24 }, target: 3771 },
+    ],
+    "3820": [
+      { type: "gotoframe", rect: { x: 630, y: 575, width: 60, height: 24 }, target: 3770 },
+      { type: "gotoframe", rect: { x: 782, y: 575, width: 60, height: 24 }, target: 3821 },
+    ],
+    "3877": [
+      { type: "gotoframe", rect: { x: 603, y: 465, width: 60, height: 24 }, target: 3820 },
+    ],
+  },
 };
 </script>
 <div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="630" width="1008">
@@ -1702,8 +1765,9 @@ frameStops: {
 <li>若有其他附加頁面, 則需縮至 1008x630 後插入適當位置</li>
 <li>完成後轉出對應的 mp4 放入頁面與網誌</li>
 </ol>
-<p><span></span></p>
-<h2>W11 0505</h2>
+<p></p>
+<br/><br/><br/><br/><span></span>有加文字的wink上傳步驟
+<p></p><h2>W11 0505</h2>
 <p><span></span>學習SSH操作</p>
 <h2>W12 0512</h2>
 <p><span></span></p>
