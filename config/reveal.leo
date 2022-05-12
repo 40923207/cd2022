@@ -238,7 +238,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20220512150825.1">&lt;section&gt;
-    &lt;h2&gt;W6&lt;/h2&gt;
+    &lt;h2&gt;W7&lt;/h2&gt;
     &lt;p&gt;在blog新增w7頁面並添加組員被分配到的軟體&lt;/p&gt;
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W7%200407.html"&gt;w6 0331&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;</t>
