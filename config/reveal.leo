@@ -25,7 +25,8 @@
 <v t="leo.20220505005026.1"><vh>slide 5</vh></v>
 <v t="leo.20220505005142.1"><vh>slide 6</vh></v>
 <v t="leo.20220505005252.1"><vh>slide 7</vh></v>
-<v t="leo.20220505005335.1"><vh>slide 8</vh></v>
+<v t="leo.20220512150825.1"><vh>slide 8</vh></v>
+<v t="leo.20220505005335.1"><vh>slide 9</vh></v>
 </v>
 </v>
 </v>
@@ -187,8 +188,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20220504234220.1">&lt;section&gt;
     &lt;h2&gt;W1&lt;/h2&gt;
-    &lt;p&gt;  IPv6設定&lt;/p&gt;
-    &lt;p&gt;  &lt;small&gt; &lt;a href="https://40923207.github.io/cd2022/content/W1%200224.html"&gt;w1 0224&lt;/a&gt;&lt;small&gt;&lt;/p&gt;
+    &lt;p&gt;IPv6設定&lt;/p&gt;
+    &lt;p&gt;  &lt;small&gt; &lt;a href="https://40923207.github.io/cd2022/content/W1%200224.html"&gt;w1 0224&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -196,21 +197,21 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;W2&lt;/h2&gt;
     &lt;p&gt;建立倉儲&lt;/p&gt;
     &lt;p&gt;  &lt;small&gt;
-    &lt;a href="https://40923207.github.io/cd2022/content/W2%200303.html"&gt;w2 0303&lt;/a&gt;&lt;small&gt;&lt;/p&gt;
+    &lt;a href="https://40923207.github.io/cd2022/content/W2%200303.html"&gt;w2 0303&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220505004906.1">&lt;section&gt;
     &lt;h2&gt;W3&lt;/h2&gt;
     &lt;p&gt;使用NX1980繪圖&lt;/p&gt;
-    &lt;p&gt; &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W3%200310.html"&gt;w3 0310&lt;/a&gt; &lt;small&gt;
+    &lt;p&gt; &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W3%200310.html"&gt;w3 0310&lt;/a&gt; &lt;/small&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220505005026.1">&lt;section&gt;
     &lt;h2&gt;W4&lt;/h2&gt;
     &lt;p&gt;分組連結製作&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W4%200317.html"&gt;w4 0317&lt;/a&gt;&lt;small&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W4%200317.html"&gt;w4 0317&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
 </t>
@@ -218,23 +219,28 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;W5&lt;/h2&gt;
     &lt;p&gt;clone大組倉儲&lt;/p&gt;
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/%E9%80%86%E5%90%91%E6%9B%B4%E6%96%B0%E5%A4%A7%E7%B5%84%E5%80%89%E5%84%B2%E5%85%A7%E5%AE%B9.html"&gt;w5 0324&lt;/a
-&gt;&lt;small&gt;
+&gt;&lt;/small&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220505005252.1">&lt;section&gt;
     &lt;h2&gt;W6&lt;/h2&gt;
     &lt;p&gt;使用Leo Edit編輯blog&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W6%200331.html"&gt;w6 0331&lt;/a&gt;&lt;small&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W6%200331.html"&gt;w6 0331&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220505005335.1">&lt;section&gt;
     &lt;h2&gt;W8&lt;/h2&gt;
     &lt;p&gt;心得&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W8%200414.html"&gt;w6 0414&lt;/a&gt;&lt;small&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W8%200414.html"&gt;w6 0414&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20220512150825.1">&lt;section&gt;
+    &lt;h2&gt;W6&lt;/h2&gt;
+    &lt;p&gt;在blog新增w7頁面並添加組員被分配到的軟體&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W7%200407.html"&gt;w6 0331&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
