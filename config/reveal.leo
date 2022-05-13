@@ -233,6 +233,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220505005335.1">&lt;section&gt;
     &lt;h2&gt;W8&lt;/h2&gt;
     &lt;p&gt;心得&lt;/p&gt;
+ &lt;p&gt;經過這次W8的作業後&lt;/p&gt;
+ &lt;p&gt;1.我了解到Coppeliasim各版本的差異，像是語法的不同、功能的不同、舊版不能開新版檔案等差異&lt;/p&gt;
+
+ &lt;p&gt;2.Coppeliasim的檔名不要使用中文、檔案放置位置的資料夾也盡量都使用英文，不然在模擬時容易出現找不到檔案的問題&lt;/p&gt;
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W8%200414.html"&gt;w6 0414&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
