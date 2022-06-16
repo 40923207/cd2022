@@ -110,7 +110,8 @@ var winkVideoData = {
 </div>
 <h1>w6</h1>
 <p>心得:</p>
-<p>自從本周開始接觸到leo之後，讓我在編輯簡報時，發現leo的方便之處，像之前可能使用SciTE編輯簡報，所有程式碼都在同一頁，導致出問題時較難發現錯誤，但是如果使用leo編輯的話，</p>
+<p>自從本周開始接觸到leo之後，讓我在編輯簡報時，發現leo的方便之處，像之前可能使用SciTE編輯簡報，所有程式碼都在同一頁，導致出問題時較難發現錯誤，但是如果使用leo編輯的話，就能一頁一頁編輯、一頁一頁除錯，不僅在編輯時不用擔心不小心刪除其他頁面，還能更有效率的編輯頁面</p>
+<p></p>
 <p><span></span>使用Leo Edit編輯blog</p>
 <p></p>
 <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
@@ -593,9 +594,32 @@ var winkVideoData = {
 <p><span><img alt="" height="253" src="/images/w16作業1推導.jpg" width="900"/></span></p>
 <p></p>
 <p>2. 已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?</p>
-<p>由end effector吸盤座標(0.22859,026047,0.36576)及目標位置(0.2,0.4,0.1)透過uarm_nx_tic_tae_toe_DH實際操作可知，使用鍵盤L按5下、J按29下、G按35下即可吸取及移動方塊</p>
+<p>由end effector吸盤座標(0.22859,026047,0.36576)及目標位置(0.2,0.4,0.1)透過uarm_nx_tic_tae_toe_DH實際操作可知，使用鍵盤L按5下、J按29下、G按35下即可吸取及移動方塊，可大約知道三軸各轉幾度，再透過微調可直接編輯程式碼，使L、J、G各按一下即吸起方塊</p>
+<p></p>
 <p><span><img alt="" height="746" src="/images/2.PNG" width="900"/></span></p>
-<h1>hwpages</h1>
+<p><span></span></p>
+<p><span>由以下數據可得知joint1移動了10度、joint2移動了22.8度、joint3移動了35.51度</span></p>
+<p><span>移動前joint1:p=-0                                               移動後joint1:p=-10</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="368" src="/images/hw2_joint1_1.PNG" width="300"/><img caption="false" height="368" src="/images/hw2_joint1_2.PNG" width="300"/></span></p>
+<p></p>
+<p><span></span></p>
+<p></p>
+<p><span>移動前joint2:p=-0.33                                          移動後joint2:p=-23.13</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="372" src="/images/hw2_joint2_1.PNG" width="300"/><img caption="false" height="372" src="/images/hw2_joint2_2.PNG" width="300"/></span></p>
+<p></p>
+<p><span></span></p>
+<p></p>
+<p><span>移動前joint3:p=0.55                                           </span><span>移動後joint3:p=-34.96</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="369" src="/images/hw2_joint3_1.PNG" width="300"/><img caption="false" height="369" src="/images/hw2_joint3_2.PNG" width="300"/></span></p>
+<p><span></span></p>
+<p></p>
+<p><span></span></p>
+<p><span>更改程式碼後呈現的結果:</span></p>
+<p><span></span></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/wSHCoxGRi3I" title="YouTube video player" width="560"></iframe></p><h1>hwpages</h1>
 <table width="982">
 <tbody>
 <tr>

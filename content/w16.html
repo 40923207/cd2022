@@ -158,9 +158,32 @@ img.add_border {
 <p><span><img alt="" height="253" src="./../images/w16作業1推導.jpg" width="900"/></span></p>
 <p></p>
 <p>2. 已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?</p>
-<p>由end effector吸盤座標(0.22859,026047,0.36576)及目標位置(0.2,0.4,0.1)透過uarm_nx_tic_tae_toe_DH實際操作可知，使用鍵盤L按5下、J按29下、G按35下即可吸取及移動方塊</p>
-<p><span><img alt="" height="746" src="./../images/2.PNG" width="900"/></span></p>
-<br />W15 << <a href='W15.html'>Previous</a> <a href='hwpages.html'>Next</a> >> hwpages</div>
+<p>由end effector吸盤座標(0.22859,026047,0.36576)及目標位置(0.2,0.4,0.1)透過uarm_nx_tic_tae_toe_DH實際操作可知，使用鍵盤L按5下、J按29下、G按35下即可吸取及移動方塊，可大約知道三軸各轉幾度，再透過微調可直接編輯程式碼，使L、J、G各按一下即吸起方塊</p>
+<p></p>
+<p><span><img caption="false" height="497" src="./../images/2.PNG" width="600"/></span></p>
+<p><span></span></p>
+<p><span>由以下數據可得知joint1移動了10度、joint2移動了22.8度、joint3移動了35.51度</span></p>
+<p><span>移動前joint1:p=-0                                               移動後joint1:p=-10</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="368" src="./../images/hw2_joint1_1.PNG" width="300"/><img caption="false" height="368" src="./../images/hw2_joint1_2.PNG" width="300"/></span></p>
+<p></p>
+<p><span></span></p>
+<p></p>
+<p><span>移動前joint2:p=-0.33                                          移動後joint2:p=-23.13</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="372" src="./../images/hw2_joint2_1.PNG" width="300"/><img caption="false" height="372" src="./../images/hw2_joint2_2.PNG" width="300"/></span></p>
+<p></p>
+<p><span></span></p>
+<p></p>
+<p><span>移動前joint3:p=0.55                                           </span><span>移動後joint3:p=-34.96</span></p>
+<p><span></span></p>
+<p><span><img caption="false" height="369" src="./../images/hw2_joint3_1.PNG" width="300"/><img caption="false" height="369" src="./../images/hw2_joint3_2.PNG" width="300"/></span></p>
+<p><span></span></p>
+<p></p>
+<p><span></span></p>
+<p><span>更改程式碼後呈現的結果:</span></p>
+<p><span></span></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/wSHCoxGRi3I" title="YouTube video player" width="560"></iframe></p><br />W15 << <a href='W15.html'>Previous</a> <a href='hwpages.html'>Next</a> >> hwpages</div>
         
     <!-- footer -->
       <div class="container">
