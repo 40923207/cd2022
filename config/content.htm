@@ -163,6 +163,10 @@ var winkVideoData = {
 <p><img alt="" height="341" src="/images/w7模型_1.PNG" width="600"/></p>
 <p><img alt="" height="384" src="/images/w7_scarysim.png" width="600"/></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/vgc0H1jehe8" title="YouTube video player" width="560"></iframe></p><h1>midterm</h1>
+<p>心得:</p>
+<p>經過這次w8的作業後</p>
+<p>1.我了解到Coppeliasim各版本的差異，像是語法的不同、功能的不同、舊版不能開新版檔案等差異</p>
+<p>2.Coppeliasim的檔名不要使用中文、檔案放置位置的資料夾也盡量都使用英文，不然在模擬時容易出現找不到檔案的問題</p>
 <p><a href="https://drive.google.com/drive/folders/1iLQArxxRhnyI7pQWSuObqRESAoD3d5UC?usp=sharing">零件檔</a></p>
 <p>1.<a href="https://drive.google.com/drive/folders/1_OmVmRkLTZjy7XoWcb4YdUIPxhU5Jxbr?usp=sharing">NX負責零件工程圖</a></p>
 <p>主臂關節1</p>
@@ -194,9 +198,14 @@ var winkVideoData = {
 <p>--------------------</p>
 <p>cmsimde 中第一階頁面, 標題為 <a href="https://40923207.github.io/cd2022/content/midterm.html">midterm</a></p>
 <p>網誌名稱為 <a href="https://40923207.github.io/cd2022/blog/midterm.html">midterm.html</a></p>
-<p><a href="https://40923207.github.io/cd2022/reveal/index.html#/8">流程與心得簡報</a></p>
-<h1>W10</h1>
-<h2>w10_block_ui</h2>
+<p><a href="https://40923207.github.io/cd2022/reveal/index.html#/8">流程與心得簡報</a></p><h1>W10</h1>
+<p>心得:</p>
+<p>block_ui</p>
+<p>透過這個影片讓我學到可以透過ui介面更改零件尺寸，讓我們在未來如果遇到加工或者是客戶想要更改零件尺寸時，可以不必將整個零件重畫，節省許多時間及提升效率</p>
+<p>nx_integ</p>
+<p>透過這個影片，讓我學習到如何透過設定，在小黑窗輸入nx即能啟動nx</p>
+<p>ssh</p>
+<p>透過這個影片，嚷我更加熟悉ssh的操作</p><h2>w10_block_ui</h2>
 <script>
 var winkVideoData = {
   dataVersion: 1,
@@ -333,11 +342,18 @@ var winkVideoData = {
   },
 };
 </script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="630" width="1008">
+<source src="./../downloads/w10_ssh.mp4" type="video/mp4"/></video>
 <div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
 <div class="winkVideoControlBarProgressRightClass"></div>
-<h1>W11</h1>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div><h1>W11</h1>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 <div class="winkVideoPlayOverlayClass">ssh_setup</div>
 <div class="winkVideoPlayOverlayClass"></div>
@@ -2061,10 +2077,14 @@ var winkVideoData = {
 <h2>W14 0526</h2>
 <p><span>繪製 MTB robot 零組件後, 匯入 CoppeliaSim 4.3.0 rev3<span><span> </span>建立 object 取放模擬場景</span></span></p>
 <h2>W15 0602</h2>
-<p><span></span></p>
-<h2>W16 0609</h2>
-<p><span></span></p>
-<h2>W17 0616</h2>
-<p><span></span></p>
-<h2>W18 0623</h2>
+<p><span></span>使用程式讓uarm手臂能透過鍵盤控制使吸盤吸取方塊並移動位置</p><h2>W16 0609</h2>
+<p>回答以下問題</p>
+<p><a href="https://mde.tw/cd2022_guide/downloads/w15/uarm_nx_tic_tae_toe_DH.ttt">uarm_nx_tic_tae_toe_DH.ttt</a></p>
+<p><img alt="" height="307" src="https://mde.tw/cd2022_guide/images/uarm_FK_IK.png" width="600"/></p>
+<ol>
+<li>已知左側綠色底座的 uArm 機械手臂, 其基座座標原點位於絕對座標 (1.0, 0.25, 0), 啟動模擬後 green_suctionpad_frame 座標原點則位於 (0.22859, 0.26047, 0.36576), 請列出運算式說明, 啟動模擬後 joint1, joint2 與 joint3 分別以逆時針旋轉 5 度後, 求 green_suctionpad_frame 的絕對座標值.</li>
+<li>已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?</li>
+</ol>
+<p><span></span></p><h2>W17 0616</h2>
+<p><span></span>期末自評及檢討個人w15、w16作業</p><h2>W18 0623</h2>
 <p><span></span></p></div></div>
