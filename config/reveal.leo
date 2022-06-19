@@ -27,7 +27,11 @@
 <v t="leo.20220505005252.1"><vh>slide 7</vh></v>
 <v t="leo.20220512150825.1"><vh>slide 8</vh></v>
 <v t="leo.20220505005335.1"><vh>slide 9</vh></v>
-<v t="leo.20220619230128.1"><vh>slide 10</vh></v>
+<v t="leo.20220619230128.1"><vh>slide 10</vh>
+<v t="leo.20220619232708.1"><vh>slide 10</vh></v>
+<v t="leo.20220619232730.1"><vh>slide 10</vh></v>
+<v t="leo.20220619232733.1"><vh>slide 10</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -265,22 +269,37 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20220619230128.1">&lt;section&gt;
     &lt;h2&gt;W10&lt;/h2&gt;
-    &lt;p&gt;心得&lt;/p&gt;
  &lt;p&gt;分別以 w10_block_ui、w10_nx_integ 與 w10_ssh 作為標題,在影片中加入註解
 說明後, 將說明影片嵌入個人 cd2022 網站頁面及 blog 網誌中
 &lt;/p&gt;
- &lt;p&gt;block_ui:透過這個影片讓我學到可以透過 ui 介面更改零件尺寸，讓我們在未來
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W10.html"&gt;W10&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220619232708.1">&lt;section&gt;
+    &lt;h3&gt;W10&lt;/h3&gt;
+    
+ &lt;p&gt;block_ui&lt;/p&gt;
+ &lt;p&gt;透過這個影片讓我學到可以透過 ui 介面更改零件尺寸，讓我們在未來
 如果遇到加工或者是客戶想要更改零件尺寸時，可以不必將整個零件重畫，節
 省許多時間及提升效率&lt;/p&gt;
-
- &lt;p&gt;nx_integ:透過這個影片，讓我學習到如何透過設定，在小黑窗輸入 nx 即能啟動
-nx&lt;/p&gt;
- &lt;p&gt;nssh:透過這個影片，讓我更加熟悉 ssh 的操作
-&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_block_ui.html"&gt;w10_block_ui&lt;/a&gt;&lt;/small&gt;
+&lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_block_ui.html"&gt;w10_block_ui&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
+
+ 
+</t>
+<t tx="leo.20220619232730.1">&lt;section&gt;
+    &lt;h3&gt;W10&lt;/h3&gt;
+
+&lt;p&gt;nx_integ&lt;/p&gt;
+&lt;p&gt;透過這個影片，讓我學習到如何透過設定，在小黑窗輸入 nx 即能啟動nx&lt;/p&gt;
 &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_nx_integ.html"&gt;w10_nx_integ&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
+
+</t>
+<t tx="leo.20220619232733.1">&lt;section&gt;
+    &lt;h3&gt;W10&lt;/h3&gt;
+&lt;p&gt;ssh&lt;/p&gt;
+&lt;p&gt;透過這個影片，嚷我更加熟悉ssh的操作&lt;/p&gt;
 &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_ssh.html"&gt;w10_ssh&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
