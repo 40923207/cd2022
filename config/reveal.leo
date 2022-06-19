@@ -27,6 +27,7 @@
 <v t="leo.20220505005252.1"><vh>slide 7</vh></v>
 <v t="leo.20220512150825.1"><vh>slide 8</vh></v>
 <v t="leo.20220505005335.1"><vh>slide 9</vh></v>
+<v t="leo.20220619230128.1"><vh>slide 10</vh></v>
 </v>
 </v>
 </v>
@@ -183,7 +184,24 @@ vertical: body pane on the botton</t>
     &lt;p&gt;
         cd2022
     &lt;/p&gt;
+    &lt;p&gt;
+       [Onedrive 檔案下載]
+    &lt;/p&gt;
+    &lt;p&gt;
+        [網站倉儲]
+    &lt;/p&gt;
+    &lt;p&gt;
+        [網站連結]
+    &lt;/p&gt;
+    &lt;p&gt;
+        [blog 連結]
+    &lt;/p&gt;
 &lt;/section&gt;
+
+[Onedrive 檔案下載]:https://gmnfuedutw-my.sharepoint.com/personal/40923207_gm_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F40923207%5Fgm%5Fnfu%5Fedu%5Ftw%2FDocuments%2F%E8%99%8E%E7%A7%91%2F%E5%A4%A7%E4%BA%8C%2F40923207%20110%5F2%20%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92%E6%AA%94%E6%A1%88&amp;ga=1
+[網站倉儲]:https://github.com/40923207/cd2022
+[網站連結]:https://40923207.github.io/cd2022/content/index.html
+[blog 連結]:https://40923207.github.io/cd2022/blog/index.html
 
 </t>
 <t tx="leo.20220504234220.1">&lt;section&gt;
@@ -204,6 +222,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220505004906.1">&lt;section&gt;
     &lt;h2&gt;W3&lt;/h2&gt;
     &lt;p&gt;使用NX1980繪圖&lt;/p&gt;
+    &lt;p&gt;從中學到更多 NX1980
+的功能，像是零件組裝、繪圖、擺放從外部匯入的零件，也因為檔案曾經無法
+顯示的關係，透過請教老師了解到，設計繪圖時，目錄與檔案盡量不要使用中
+文，可降低錯誤的發生&lt;/p&gt;
     &lt;p&gt; &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W3%200310.html"&gt;w3 0310&lt;/a&gt; &lt;/small&gt;
 &lt;/section&gt;
 
@@ -226,6 +248,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220505005252.1">&lt;section&gt;
     &lt;h2&gt;W6&lt;/h2&gt;
     &lt;p&gt;使用Leo Edit編輯blog&lt;/p&gt;
+    &lt;p&gt;自從本周開始接觸到 leo 之後，讓我在編輯簡報時，發現 leo 的方便之處，像
+之前可能使用 SciTE 編輯簡報，所有程式碼都在同一頁，導致出問題時較難發
+現錯誤，但是如果使用 leo 編輯的話，就能一頁一頁編輯、一頁一頁除錯，不
+僅在編輯時不用擔心不小心刪除其他頁面，還能更有效率的編輯頁面
+&lt;/p&gt;
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W6%200331.html"&gt;w6 0331&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
@@ -237,14 +264,35 @@ vertical: body pane on the botton</t>
  &lt;p&gt;1.我了解到Coppeliasim各版本的差異，像是語法的不同、功能的不同、舊版不能開新版檔案等差異&lt;/p&gt;
 
  &lt;p&gt;2.Coppeliasim的檔名不要使用中文、檔案放置位置的資料夾也盡量都使用英文，不然在模擬時容易出現找不到檔案的問題&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W8%200414.html"&gt;w6 0414&lt;/a&gt;&lt;/small&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W8%200414.html"&gt;w8 0414&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220512150825.1">&lt;section&gt;
     &lt;h2&gt;W7&lt;/h2&gt;
     &lt;p&gt;在blog新增w7頁面並添加組員被分配到的軟體&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W7%200407.html"&gt;w6 0331&lt;/a&gt;&lt;/small&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W7%200407.html"&gt;w7 0407&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20220619230128.1">&lt;section&gt;
+    &lt;h2&gt;W10&lt;/h2&gt;
+    &lt;p&gt;心得&lt;/p&gt;
+ &lt;p&gt;分別以 w10_block_ui、w10_nx_integ 與 w10_ssh 作為標題,在影片中加入註解
+說明後, 將說明影片嵌入個人 cd2022 網站頁面及 blog 網誌中
+&lt;/p&gt;
+ &lt;p&gt;block_ui:透過這個影片讓我學到可以透過 ui 介面更改零件尺寸，讓我們在未來
+如果遇到加工或者是客戶想要更改零件尺寸時，可以不必將整個零件重畫，節
+省許多時間及提升效率&lt;/p&gt;
+
+ &lt;p&gt;nx_integ:透過這個影片，讓我學習到如何透過設定，在小黑窗輸入 nx 即能啟動
+nx&lt;/p&gt;
+ &lt;p&gt;nssh:透過這個影片，讓我更加熟悉 ssh 的操作
+&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_block_ui.html"&gt;w10_block_ui&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+&lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_nx_integ.html"&gt;w10_nx_integ&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+&lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_ssh.html"&gt;w10_ssh&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
