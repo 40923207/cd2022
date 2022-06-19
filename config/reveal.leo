@@ -196,12 +196,14 @@ vertical: body pane on the botton</t>
     &lt;p&gt;
         [blog 連結]
     &lt;/p&gt;
-&lt;/section&gt;
-
-[Onedrive 檔案下載]:https://gmnfuedutw-my.sharepoint.com/personal/40923207_gm_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F40923207%5Fgm%5Fnfu%5Fedu%5Ftw%2FDocuments%2F%E8%99%8E%E7%A7%91%2F%E5%A4%A7%E4%BA%8C%2F40923207%20110%5F2%20%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92%E6%AA%94%E6%A1%88&amp;ga=1
+    
+    [Onedrive 檔案下載]:https://gmnfuedutw-my.sharepoint.com/personal/40923207_gm_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F40923207%5Fgm%5Fnfu%5Fedu%5Ftw%2FDocuments%2F%E8%99%8E%E7%A7%91%2F%E5%A4%A7%E4%BA%8C%2F40923207%20110%5F2%20%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92%E6%AA%94%E6%A1%88&amp;ga=1
 [網站倉儲]:https://github.com/40923207/cd2022
 [網站連結]:https://40923207.github.io/cd2022/content/index.html
 [blog 連結]:https://40923207.github.io/cd2022/blog/index.html
+&lt;/section&gt;
+
+
 
 </t>
 <t tx="leo.20220504234220.1">&lt;section&gt;
