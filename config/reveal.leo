@@ -276,7 +276,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20220619232708.1">&lt;section&gt;
-    &lt;h2&gt;block_u&lt;/h2&gt;
+    &lt;h2&gt;block_ui&lt;/h2&gt;
     
 
  &lt;p&gt;透過這個影片讓我學到可以透過 ui 介面更改零件尺寸，讓我們在未來
@@ -299,7 +299,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220619232733.1">&lt;section&gt;
     &lt;h2&gt;ssh&lt;/h2&gt;
 
-&lt;p&gt;透過這個影片，嚷我更加熟悉ssh的操作&lt;/p&gt;
+&lt;p&gt;透過這個影片，讓我更加熟悉ssh的操作&lt;/p&gt;
 &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_ssh.html"&gt;w10_ssh&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
