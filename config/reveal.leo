@@ -32,6 +32,7 @@
 <v t="leo.20220619232730.1"><vh>slide 10</vh></v>
 <v t="leo.20220619232733.1"><vh>slide 10</vh></v>
 </v>
+<v t="leo.20220624150146.1"><vh>slide 11</vh></v>
 </v>
 </v>
 </v>
@@ -303,6 +304,15 @@ vertical: body pane on the botton</t>
 &lt;p&gt;透過這個影片，讓我更加熟悉ssh的操作&lt;/p&gt;
 &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_ssh.html"&gt;w10_ssh&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624150146.1">&lt;section&gt;
+    &lt;h2&gt;W10&lt;/h2&gt;
+ &lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;
+經過這次作業讓我學習到如何設定putty
+&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W11.html"&gt;W11&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
