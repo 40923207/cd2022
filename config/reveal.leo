@@ -34,6 +34,7 @@
 </v>
 <v t="leo.20220624150146.1"><vh>slide 11</vh></v>
 <v t="leo.20220624150738.1"><vh>slide 12</vh></v>
+<v t="leo.20220624151024.1"><vh>online</vh></v>
 </v>
 </v>
 </v>
@@ -322,6 +323,13 @@ vertical: body pane on the botton</t>
 &lt;p&gt;心得:&lt;/p&gt;
 &lt;p&gt;經各這次作業讓我認識到nx這方便的功能，能為我們節省不少的時間&lt;/p&gt;
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W12.html"&gt;W12&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624151024.1">&lt;section&gt;
+    &lt;h2&gt;online&lt;/h2&gt;
+ &lt;p&gt;繪製uarm零件及工程圖&lt;/p&gt;
+
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/online.html"&gt;online&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
