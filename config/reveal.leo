@@ -38,6 +38,7 @@
 <v t="leo.20220624151847.1"><vh>slide 14</vh></v>
 <v t="leo.20220624152037.1"><vh>slide 15</vh></v>
 <v t="leo.20220624152610.1"><vh>slide 16</vh></v>
+<v t="leo.20220624152838.1"><vh>slide 17</vh></v>
 </v>
 </v>
 </v>
@@ -363,6 +364,16 @@ vertical: body pane on the botton</t>
 &lt;p&gt;心得:&lt;/p&gt;
 &lt;p&gt;透過這次測驗，讓我更加認識 coppeliasim 以及程式，原來透過程式可以幫我們解決這麼多的計算問題，且達到自動化&lt;/p&gt;
     &lt;small&gt;&lt;a href="https://mde.tw/cd2022_guide/content/Online%20Exam.html"&gt;W16&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624152838.1">&lt;section&gt;
+    &lt;h2&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/h2&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;經過本週老師將學生 15、16 週作業一個一個透過問問題的方式，讓我更加清
+楚知道自己 16 週測驗做的不足的地方，透過老師的建議以及說明也讓我學到了
+可以清楚知道各軸的轉動角度的方式，以及計算出移動的距離
+且本週製作了 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
