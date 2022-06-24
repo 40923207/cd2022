@@ -268,6 +268,7 @@ vertical: body pane on the botton</t>
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W7%200407.html"&gt;w7 0407&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20220619230128.1">&lt;section&gt;
+&lt;section&gt;
     &lt;h2&gt;W10&lt;/h2&gt;
  &lt;p&gt;分別以 w10_block_ui、w10_nx_integ 與 w10_ssh 作為標題,在影片中加入註解
 說明後, 將說明影片嵌入個人 cd2022 網站頁面及 blog 網誌中
@@ -301,6 +302,7 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;透過這個影片，讓我更加熟悉ssh的操作&lt;/p&gt;
 &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w10_ssh.html"&gt;w10_ssh&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
