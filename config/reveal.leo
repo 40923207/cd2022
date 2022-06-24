@@ -37,6 +37,7 @@
 <v t="leo.20220624151024.1"><vh>online</vh></v>
 <v t="leo.20220624151847.1"><vh>slide 14</vh></v>
 <v t="leo.20220624152037.1"><vh>slide 15</vh></v>
+<v t="leo.20220624152610.1"><vh>slide 16</vh></v>
 </v>
 </v>
 </v>
@@ -330,6 +331,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220624151024.1">&lt;section&gt;
     &lt;h2&gt;online&lt;/h2&gt;
  &lt;p&gt;繪製uarm零件及工程圖&lt;/p&gt;
+ &lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;從這個作業學到，uarm 手臂的調整，透過重量或連接方式的調整，都有可能產
+生不同的作動結果。
+&lt;/p&gt;
 
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/online.html"&gt;online&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
@@ -348,9 +353,16 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;W15&lt;/h2&gt;
  &lt;p&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
 &lt;p&gt;心得:&lt;/p&gt;
-&lt;p&gt;從這個作業學到，uarm 手臂的調整，透過重量或連接方式的調整，都有可能產
-生不同的作動結果&lt;/p&gt;
-    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/W15."W15&lt;/a&gt;&lt;/small&gt;
+&lt;p&gt;透過 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬的作業後，讓我學到了吸盤以及座標的配合使用，解決啟動時吸盤下垂的問題&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w15.html"&gt;W15&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624152610.1">&lt;section&gt;
+    &lt;h2&gt;W16&lt;/h2&gt;
+ &lt;p&gt;Online Exam&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;透過這次測驗，讓我更加認識 coppeliasim 以及程式，原來透過程式可以幫我們解決這麼多的計算問題，且達到自動化&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://mde.tw/cd2022_guide/content/Online%20Exam.html"&gt;W16&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
