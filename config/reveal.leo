@@ -39,6 +39,13 @@
 <v t="leo.20220624152037.1"><vh>slide 15</vh></v>
 <v t="leo.20220624152610.1"><vh>slide 16</vh></v>
 <v t="leo.20220624152838.1"><vh>slide 17</vh></v>
+<v t="leo.20220624153054.1"><vh>slide 18</vh>
+<v t="leo.20220624153217.1"><vh>slide 17</vh></v>
+<v t="leo.20220624153237.1"><vh>slide 17</vh></v>
+<v t="leo.20220624153243.1"><vh>slide 17</vh></v>
+<v t="leo.20220624153247.1"><vh>slide 17</vh></v>
+<v t="leo.20220624153251.1"><vh>slide 17</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -376,5 +383,62 @@ vertical: body pane on the botton</t>
     &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20220624153054.1">&lt;section&gt;
+&lt;section&gt;
+    &lt;h2&gt;期末考週&lt;/h2&gt;
+
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/%E6%9C%9F%E6%9C%AB%E8%80%83%E9%80%B1.html"&gt;期末考週&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624153217.1">&lt;section&gt;
+    &lt;h2&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/h2&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;經過本週老師將學生 15、16 週作業一個一個透過問問題的方式，讓我更加清
+楚知道自己 16 週測驗做的不足的地方，透過老師的建議以及說明也讓我學到了
+可以清楚知道各軸的轉動角度的方式，以及計算出移動的距離
+且本週製作了 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624153237.1">&lt;section&gt;
+    &lt;h2&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/h2&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;經過本週老師將學生 15、16 週作業一個一個透過問問題的方式，讓我更加清
+楚知道自己 16 週測驗做的不足的地方，透過老師的建議以及說明也讓我學到了
+可以清楚知道各軸的轉動角度的方式，以及計算出移動的距離
+且本週製作了 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624153243.1">&lt;section&gt;
+    &lt;h2&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/h2&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;經過本週老師將學生 15、16 週作業一個一個透過問問題的方式，讓我更加清
+楚知道自己 16 週測驗做的不足的地方，透過老師的建議以及說明也讓我學到了
+可以清楚知道各軸的轉動角度的方式，以及計算出移動的距離
+且本週製作了 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624153247.1">&lt;section&gt;
+    &lt;h2&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/h2&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;經過本週老師將學生 15、16 週作業一個一個透過問問題的方式，讓我更加清
+楚知道自己 16 週測驗做的不足的地方，透過老師的建議以及說明也讓我學到了
+可以清楚知道各軸的轉動角度的方式，以及計算出移動的距離
+且本週製作了 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20220624153251.1">&lt;section&gt;
+    &lt;h2&gt;uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/h2&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;經過本週老師將學生 15、16 週作業一個一個透過問問題的方式，讓我更加清
+楚知道自己 16 週測驗做的不足的地方，透過老師的建議以及說明也讓我學到了
+可以清楚知道各軸的轉動角度的方式，以及計算出移動的距離
+且本週製作了 uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬&lt;/p&gt;
+    &lt;small&gt;&lt;a href="https://40923207.github.io/cd2022/content/w17.html"&gt;W17&lt;/a&gt;&lt;/small&gt;
+&lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
