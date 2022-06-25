@@ -7,7 +7,6 @@
 <find_panel_settings/>
 <vnodes>
 <v t="yen.20170108171605.1"><vh>@settings</vh>
-<v t="leo.20220407141541.1"><vh>@url file://..\..\w7_project\scarysim\scarysim.pro</vh></v>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -55,26 +54,15 @@
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
-<v t="leo.20180115115910.1"><vh>2022</vh>
-<v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
-<v t="leo.20220625100426.1"><vh>@edit w3.md</vh></v>
-<v t="leo.20180423103656.1"><vh>@edit w6.md</vh></v>
-<v t="leo.20220407153449.1"><vh>@edit w7.md</vh></v>
-<v t="leo.20220428143217.1"><vh>@edit w8.md</vh></v>
-<v t="leo.20220625100911.1"><vh>@edit w10.md</vh></v>
-<v t="leo.20220625101337.1"><vh>@edit w11.md</vh></v>
-<v t="leo.20220625101344.1"><vh>@edit w12.md</vh></v>
-<v t="leo.20220519155052.1"><vh>@edit w13.md</vh></v>
-<v t="leo.20220625101410.1"><vh>@edit w14.md</vh></v>
-<v t="leo.20220625101416.1"><vh>@edit w15.md</vh></v>
-<v t="leo.20220625101422.1"><vh>@edit w16.md</vh></v>
-<v t="leo.20220625101428.1"><vh>@edit w17.md</vh></v>
-<v t="leo.20220625101451.1"><vh>@edit 期末考週.md</vh></v>
+<v t="leo.20180115115910.1"><vh>2021</vh>
+<v t="leo.20180423103639.1"><vh>2021 Fall CP 課程</vh>
+<v t="leo.20180423103656.1"><vh>@edit w3.md</vh></v>
+<v t="leo.20220626002636.1"><vh>@edit w6.md</vh></v>
+<v t="leo.20220626002653.1"><vh>@edit w7.md</vh></v>
 </v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
-<v t="leo.20220331144038.1"><vh>@auto markdown\20220331.md</vh></v>
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
@@ -102,7 +90,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220407141541.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
