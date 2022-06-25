@@ -57,19 +57,6 @@
 <v t="leo.20180115115910.1"><vh>2021</vh>
 <v t="leo.20180423103639.1"><vh>2021 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20210525.md</vh></v>
-<v t="leo.20220626014547.1"><vh>@auto w3.md</vh></v>
-<v t="leo.20220626014554.1"><vh>@auto w6.md</vh></v>
-<v t="leo.20220626014556.1"><vh>@auto w7.md</vh></v>
-<v t="leo.20220626014557.1"><vh>@auto w8.md</vh></v>
-<v t="leo.20220626014602.1"><vh>@auto w10.md</vh></v>
-<v t="leo.20220626014609.1"><vh>@auto w11.md</vh></v>
-<v t="leo.20220626014611.1"><vh>@auto w12.md</vh></v>
-<v t="leo.20220626014613.1"><vh>@auto w13.md</vh></v>
-<v t="leo.20220626014615.1"><vh>@auto w14.md</vh></v>
-<v t="leo.20220626014617.1"><vh>@auto w15.md</vh></v>
-<v t="leo.20220626014620.1"><vh>@auto w16.md</vh></v>
-<v t="leo.20220626014621.1"><vh>@auto w17.md</vh></v>
-<v t="leo.20220626014624.1"><vh>@auto w18.md</vh></v>
 </v>
 </v>
 </v>
