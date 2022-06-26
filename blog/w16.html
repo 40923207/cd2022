@@ -226,53 +226,6 @@ init_mathjax();
             <section class="post-content">
                 <hr>
 <p>Online Exam</p>
-
-<h2>w16</h2>
-<p></p>
-<p><a href="https://mde.tw/cd2022_guide/downloads/w15/uarm_nx_tic_tae_toe_DH.ttt">uarm_nx_tic_tae_toe_DH.ttt</a></p>
-<p><img alt="" height="502" src="https://40923207.github.io/cd2022/images/%E9%A1%8C%E7%9B%AE.PNG" width="900"></p>
-<p></p>
-<p>1. 已知左側綠色底座的 uArm 機械手臂, 其基座座標原點位於絕對座標 (1.0, 0.25, 0), 啟動模擬後&nbsp; &nbsp; green_suctionpad_frame 座標原點則位於 (0.22859, 0.26047, 0.36576), 請列出運算式說明, 啟動 模擬後 joint1, joint2 與 joint3 分別以逆時針旋轉 5 度後, 求 green_suctionpad_frame 的絕對座標值.</p>
-<p>原點座標為(0.2608,0.2602,0.3460)</p>
-<p>逆時針旋轉5度後絕對座標值為<span style="background-color: #ffff00;">(0.2602,0.2860,0.3393)</span></p>
-<p><span style="background-color: #ffff00;"><img alt="" height="432" src="https://40923207.github.io/cd2022/images/1%E7%AD%94%E6%A1%88.PNG" width="900"></span></p>
-<p>運算式推導<span>:</span></p>
-<p>只按<span>i(<span style="background-color: #ffff00;">0.2617</span>,<span style="background-color: #ffff00;">0.2860</span>,0.3459)</span></p>
-<p><span><img alt="" height="281" src="https://40923207.github.io/cd2022/images/i.PNG" width="600"></span></p>
-<p>只按<span>j(<span style="background-color: #ffff00;">0.2814</span>,0.2602,<span style="background-color: #ffff00;">0.3293</span>)</span></p>
-<p><span><img alt="" height="295" src="https://40923207.github.io/cd2022/images/j.PNG" width="600"></span></p>
-<p>只按<span>g(<span style="background-color: #ffff00;">0.2405</span>,0.2602,<span style="background-color: #ffff00;">0.3554</span>)</span></p>
-<p><span><img alt="" height="286" src="https://40923207.github.io/cd2022/images/g.PNG" width="600"></span></p>
-<p>由以上座標推得</p>
-<p><span><img alt="" height="253" src="https://40923207.github.io/cd2022/images/w16%E4%BD%9C%E6%A5%AD1%E6%8E%A8%E5%B0%8E.jpg" width="900"></span></p>
-<p></p>
-<p>2. 已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?</p>
-<p>由end effector吸盤座標(0.22859,026047,0.36576)及目標位置(0.2,0.4,0.1)透過uarm_nx_tic_tae_toe_DH實際操作可知，使用鍵盤L按5下、J按29下、G按35下即可吸取及移動方塊，可大約知道三軸各轉幾度，再透過微調可直接編輯程式碼，使L、J、G各按一下即吸起方塊</p>
-<p></p>
-<p><span><img caption="false" height="497" src="https://40923207.github.io/cd2022/images/2.PNG" width="600"></span></p>
-<p><span></span></p>
-<p><span>由以下數據可得知joint1移動了10度、joint2移動了22.8度、joint3移動了35.51度</span></p>
-<p><span>移動前joint1:p=-0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;移動後joint1:p=-10</span></p>
-<p><span></span></p>
-<p><span><img caption="false" height="368" src="https://40923207.github.io/cd2022/images/hw2_joint1_1.PNG" width="300"><img caption="false" height="368" src="https://40923207.github.io/cd2022/images/hw2_joint1_2.PNG" width="300"></span></p>
-<p></p>
-<p><span></span></p>
-<p></p>
-<p><span>移動前joint2:p=-0.33&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;移動後joint2:p=-23.13</span></p>
-<p><span></span></p>
-<p><span><img caption="false" height="372" src="https://40923207.github.io/cd2022/images/hw2_joint2_1.PNG" width="300"><img caption="false" height="372" src="https://40923207.github.io/cd2022/images/hw2_joint2_2.PNG" width="300"></span></p>
-<p></p>
-<p><span></span></p>
-<p></p>
-<p><span>移動前joint3:p=0.55&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span>移動後joint3:p=-34.96</span></p>
-<p><span></span></p>
-<p><span><img caption="false" height="369" src="https://40923207.github.io/cd2022/images/hw2_joint3_1.PNG" width="300"><img caption="false" height="369" src="https://40923207.github.io/cd2022/images/hw2_joint3_2.PNG" width="300"></span></p>
-<p><span></span></p>
-<p></p>
-<p><span></span></p>
-<p><span>更改程式碼後呈現的結果:</span></p>
-<p><span></span></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wSHCoxGRi3I" title="YouTube video player"></iframe></p>
             </section>
 
             <section class="post-info">
@@ -299,11 +252,11 @@ init_mathjax();
 
 
                 <aside class="post-nav">
-                    <a class="post-nav-next" href="./w18.html">
+                    <a class="post-nav-next" href="./w17.html">
                         <section class="post-nav-teaser">
                             <i class="ic ic-arrow-left"></i>
-                                <h2 class="post-nav-title">2021 Fall CP 課程_w18期末考週</h2>
-                            <p class="post-nav-excerpt">期末考週</p>
+                                <h2 class="post-nav-title">2021 Fall CP 課程_w17</h2>
+                            <p class="post-nav-excerpt">uArm 機械手臂進行 Tic-Tae-Toe 遊戲場景製作與模擬</p>
                         </section>
                     </a>
                     <a class="post-nav-prev" href="./w15.html">
